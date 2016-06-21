@@ -21,3 +21,7 @@ public
 # OS generated stuff
 .DS_Store
 .DS_Store?
+
+# VIM
+*.swo
+*.swp
